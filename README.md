@@ -1,6 +1,6 @@
 # Google Cloud Hands on materials for Cloud Run
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/gcp-getting-started-lab-jp&cloudshell_working_dir=cloudrun2&cloudshell_tutorial=tutorial.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/google-cloud-japan/appdev-cloudrun-handson&cloudshell_tutorial=tutorial.md)
 
 **This is not an officially supported Google product**.
 

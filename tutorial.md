@@ -227,12 +227,12 @@ gcloud config set project $PROJECT_ID
 
 - 作業用のディレクトリへ移動
 ```bash
-cd ~/cloudshell_open/gcp-getting-started-lab-jp/cloudrun2
+cd ~/cloudshell_open/appdev-cloudrun-handson
 ```
 
 - チュートリアルの起動
 ```bash
-cd ~/cloudshell_open/gcp-getting-started-lab-jp/cloudrun2 && teachme tutorial.md
+cd ~/cloudshell_open/appdev-cloudrun-handson && teachme tutorial.md
 ```
 
 
@@ -587,7 +587,7 @@ Notification サービスと連携できるように Eats サービスのソー�
 
 レポジトリのルートに戻ります。
 ```bash
-cd ~/cloudshell_open/gcp-getting-started-lab-jp/cloudrun2
+cd ~/cloudshell_open/appdev-cloudrun-handson
 ```
 
 Cloud Pub/Sub と連携するための Util パッケージのインポート
